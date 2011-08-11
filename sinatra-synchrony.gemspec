@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'sinatra',           '>= 1.0'
   s.add_dependency 'rack-fiber_pool',   '= 0.9.1'
   s.add_dependency 'em-http-request',   '= 0.3.0'
-  s.add_dependency 'em-synchrony',      '>= 0.3.0'
+  s.add_dependency 'em-synchrony',      '>= 0'
   s.add_dependency 'em-resolv-replace', '>= 0'
   s.add_dependency 'async-rack',        '>= 0'
 
