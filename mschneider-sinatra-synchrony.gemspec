@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = 'sinatra-synchrony'
+  s.name = 'mschneider-sinatra-synchrony'
   s.version = '0.1.1'
   s.authors = ['Kyle Drake']
   s.email = ['kyledrake@gmail.com']
